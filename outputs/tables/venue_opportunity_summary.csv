@@ -1,0 +1,21 @@
+venue_id,venue_name,city,state,latitude,longitude,metro_population,n_competitors,dist_to_nearest_competitor_mi,catchment_25mi_area_sq_mi,opportunity_score
+V008,Angel Stadium,Anaheim,CA,33.8003,-117.8827,12900000,0,27.66,1960.3,62.5
+V019,T-Mobile Park,Seattle,WA,47.5914,-122.3325,4000000,0,680.44,1960.3,55.8
+V018,Daikin Park,Houston,TX,29.757,-95.3555,7300000,0,230.48,1960.3,52.2
+V020,Coors Field,Denver,CO,39.7559,-104.9942,2960000,0,654.32,1960.3,52.0
+V004,Madison Square Garden,New York,NY,40.7505,-73.9934,19200000,3,6.04,1960.3,50.2
+V003,MetLife Stadium,East Rutherford,NJ,40.8128,-74.0742,19200000,3,6.04,1960.3,50.2
+V002,Citi Field,Queens,NY,40.7571,-73.8458,19200000,3,6.55,1960.3,50.2
+V001,Yankee Stadium,Bronx,NY,40.8296,-73.9262,19200000,3,6.52,1960.3,50.2
+V006,SoFi Stadium,Inglewood,CA,33.9535,-118.3392,12900000,2,7.44,1960.3,41.9
+V005,Dodger Stadium,Los Angeles,CA,34.0739,-118.24,12900000,2,2.65,1960.3,41.8
+V007,Crypto.com Arena,Los Angeles,CA,34.043,-118.2673,12900000,2,2.65,1960.3,41.8
+V016,Globe Life Field,Arlington,TX,32.7473,-97.0838,7900000,1,0.62,1960.3,37.2
+V017,AT&T Stadium,Arlington,TX,32.7473,-97.0945,7900000,1,0.62,1960.3,37.2
+V015,United Center,Chicago,IL,41.8807,-87.6742,9500000,2,4.09,1960.3,31.9
+V013,Wrigley Field,Chicago,IL,41.9484,-87.6553,9500000,2,4.8,1960.3,31.9
+V014,Rate Field,Chicago,IL,41.83,-87.6338,9500000,2,4.09,1960.3,31.9
+V012,Levis Stadium,Santa Clara,CA,37.403,-121.97,1990000,0,27.32,1960.3,30.8
+V011,Oakland Coliseum,Oakland,CA,37.7516,-122.2005,4700000,2,10.21,1960.3,18.2
+V009,Oracle Park,San Francisco,CA,37.7786,-122.3893,4700000,2,0.74,1960.3,17.9
+V010,Chase Center,San Francisco,CA,37.768,-122.3877,4700000,2,0.74,1960.3,17.9

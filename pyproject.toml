@@ -1,0 +1,26 @@
+[project]
+name = "stadium-catchment-location-intelligence"
+version = "0.1.0"
+description = "Catchment and market opportunity analysis around sports venues"
+requires-python = ">=3.10"
+dependencies = [
+    "geopandas>=1.0",
+    "shapely>=2.0",
+    "pyproj>=3.6",
+    "pandas>=2.0",
+    "matplotlib>=3.7",
+    "folium>=0.16",
+]
+
+[project.optional-dependencies]
+dev = ["pytest>=8.0", "ruff>=0.5"]
+
+[tool.ruff]
+line-length = 100
+target-version = "py310"
+
+[tool.ruff.lint]
+select = ["E", "F", "I", "UP", "B"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]

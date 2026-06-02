@@ -1,0 +1,21 @@
+venue_id,venue_name,city,state,latitude,longitude,metro_population
+V001,Yankee Stadium,Bronx,NY,40.8296,-73.9262,19200000
+V002,Citi Field,Queens,NY,40.7571,-73.8458,19200000
+V003,MetLife Stadium,East Rutherford,NJ,40.8128,-74.0742,19200000
+V004,Madison Square Garden,New York,NY,40.7505,-73.9934,19200000
+V005,Dodger Stadium,Los Angeles,CA,34.0739,-118.2400,12900000
+V006,SoFi Stadium,Inglewood,CA,33.9535,-118.3392,12900000
+V007,Crypto.com Arena,Los Angeles,CA,34.0430,-118.2673,12900000
+V008,Angel Stadium,Anaheim,CA,33.8003,-117.8827,12900000
+V009,Oracle Park,San Francisco,CA,37.7786,-122.3893,4700000
+V010,Chase Center,San Francisco,CA,37.7680,-122.3877,4700000
+V011,Oakland Coliseum,Oakland,CA,37.7516,-122.2005,4700000
+V012,Levis Stadium,Santa Clara,CA,37.4030,-121.9700,1990000
+V013,Wrigley Field,Chicago,IL,41.9484,-87.6553,9500000
+V014,Rate Field,Chicago,IL,41.8300,-87.6338,9500000
+V015,United Center,Chicago,IL,41.8807,-87.6742,9500000
+V016,Globe Life Field,Arlington,TX,32.7473,-97.0838,7900000
+V017,AT&T Stadium,Arlington,TX,32.7473,-97.0945,7900000
+V018,Daikin Park,Houston,TX,29.7570,-95.3555,7300000
+V019,T-Mobile Park,Seattle,WA,47.5914,-122.3325,4000000
+V020,Coors Field,Denver,CO,39.7559,-104.9942,2960000

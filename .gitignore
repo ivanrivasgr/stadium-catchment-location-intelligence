@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.eggs/
+.venv/
+venv/
+env/
+
+# Tooling
+.pytest_cache/
+.ruff_cache/
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+
+# Data: keep the sample, ignore bulky raw/processed pulls
+data/raw/*
+data/processed/*
+!data/raw/.gitkeep
+!data/processed/.gitkeep
+
+# Generated outputs are reproducible; keep the folders, ignore artifacts.
+# Comment these out if you want example outputs committed for the README.
+# outputs/maps/*
+# outputs/tables/*
+# outputs/qgis/*
